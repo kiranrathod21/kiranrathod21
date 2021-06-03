@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>css basic </title>  
+  <style>
+    .para-desc{
+      background-color:red;
+      width=50%;
+      
+    }
+    .desc text color{
+      background-color: blue;
+      width:50%;
+    }
+    #para{
+     background-color: orange;
+     width:50%;
+    }
+    #art-desc{
+    background-color:green ;
+    width:50%;
+    }
+    h1{
+      background-color: black;
+    }
+    body{
+      background-color:pink;
+    }
+    h2{
+      background-color: yellow;
+    }
+    h1{
+      color:white;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="mera">
+    Highest paid jobs in IT field in india in 2021  
+  </h1> 
+  
+  <p id="art-desc">
+    The highest paid jobs in India in 2021 in IT firld .are listed web developer that is full 
+    stack developer, data analyst, software developer 
+   <hr> 
+  <h2>full stack developer</h2>
+  <p id="para" class="desc text color">The full stack developer is one of the highest paid jobs in india across the country
+  as compared to front end and back end developer so in India the jobs are highest paid in India</p>
+  </p>
